@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Lab2_2023_2_6633111221_Thiraphat:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Lab2_2023_2_6633111221_Thiraphat_jar</output-path>
+    <root id="archive" name="Lab2_2023_2_6633111221_Thiraphat.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
